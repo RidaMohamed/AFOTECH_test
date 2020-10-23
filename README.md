@@ -1,5 +1,5 @@
-# Simple MERN Stack application
-Simple MERN Stack application
+# Simple Javascript app
+Simple Javascript app
 
 # Team 
 SALHI Mohamed Elidha
